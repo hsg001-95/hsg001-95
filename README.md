@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Hiyansh Sharma</h1>
 <h3 align="center">A passionate tech enthusiast with a deep love for coding, always eager to explore emerging technologies and push the boundaries of innovation</h3>
-
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/c5X2XxXuQhc.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsg001-95&label=Profile%20views&color=0e75b6&style=flat" alt="hsg001-95" /> </p>
 
 - 🌱 I’m currently learning **DSA**
