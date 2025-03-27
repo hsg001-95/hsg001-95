@@ -1,3 +1,7 @@
+![logo](https://github.com/hsg001-95/hsg001-95/blob/main/github-header-image.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Hiyansh Sharma</h1>
 <h3 align="center">A passionate tech enthusiast with a deep love for coding, always eager to explore emerging technologies and push the boundaries of innovation</h3>
 
